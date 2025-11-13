@@ -317,11 +317,6 @@ erDiagram
 ### ✔ Base de Datos SQL
 - Tablas para habitaciones, huéspedes, reservaciones, pagos, cargos extras
 
-### ✔ Documentación
-- Manual técnico  
-- Manual de usuario  
-- Instructivo de instalación  
-
 ### ✔ Colección Postman
 - Endpoints de autenticación  
 - CRUD completos  

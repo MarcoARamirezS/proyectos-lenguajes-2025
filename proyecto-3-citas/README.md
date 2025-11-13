@@ -262,21 +262,6 @@ Cada equipo debe entregar los siguientes elementos para completar correctamente 
 - Archivo `schema.sql` con todas las tablas
 - Datos iniciales (`seed.sql` opcional)
 
-### 📘 Manual de usuario
-Debe incluir:
-- Capturas de pantalla
-- Flujo de trabajo (login → agenda → citas)
-- Manual para registrar doctores, pacientes y citas
-
-### 🛠 Manual técnico
-Debe contener:
-- Instalación del backend
-- Instalación del frontend
-- Variables de entorno
-- Dependencias utilizadas
-- Arquitectura y estructura de carpetas
-- Postman Collection
-
 ### 🎬 Video demo completo
 Duración sugerida: **3–6 minutos**  
 Debe mostrar:

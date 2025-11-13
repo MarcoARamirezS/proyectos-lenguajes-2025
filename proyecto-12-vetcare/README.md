@@ -251,24 +251,6 @@ Incluye:
 - Arquitectura del frontend  
 - Flujo de autenticación  
 
-✔ **Manual Técnico**  
-Debe incluir:
-- Instalación del backend  
-- Instalación del frontend  
-- Variables de entorno  
-- Estructura del proyecto  
-- Endpoints y modelos  
-- Dependencias y scripts  
-
-✔ **Manual de Usuario**  
-Incluye:
-- Inicio de sesión  
-- Registro de dueño y mascota  
-- Agendar cita  
-- Registrar vacunas y tratamientos  
-- Acceso al dashboard  
-- Capturas de pantalla  
-
 ✔ **Video Demostrativo (5–7 min)**  
 Debe mostrar el flujo completo:
 - Login  

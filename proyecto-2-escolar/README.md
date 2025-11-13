@@ -269,21 +269,6 @@ Cada equipo debe entregar **todos** los siguientes elementos para completar el p
 - Exportación completa de la base de datos (`schema.sql`)
 - Datos mínimos de prueba (`seed.sql` opcional)
 
-### 🛠 Manual técnico
-Incluye:
-- Instalación backend
-- Instalación frontend
-- Dependencias
-- Variables de entorno
-- Arquitectura del proyecto
-- Colección Postman
-
-### 📘 Manual de usuario
-Incluye:
-- Capturas de pantalla del sistema
-- Flujo completo (login → dashboard → módulos)
-- Instrucciones para usar cada módulo (alumnos, materias, calificaciones, reportes)
-
 ### 🎬 Video demostrativo (3–5 minutos)
 Debe mostrar:
 - Inicio de sesión

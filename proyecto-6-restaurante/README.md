@@ -319,32 +319,6 @@ Incluye:
 
 ---
 
-### ✔ Manual de usuario
-
-Guía para usuarios finales con:
-
-- Inicio de sesión  
-- Uso del módulo de órdenes  
-- Gestión de platillos y categorías  
-- Lectura de reportes  
-- Interpretación del dashboard  
-
----
-
-### ✔ Manual técnico
-
-Incluye:
-
-- Instalación  
-- Requisitos  
-- Configuración del backend  
-- Estructura del frontend  
-- Endpoints de la API  
-- Arquitectura interna  
-- Dependencias  
-
----
-
 ### ✔ Postman con endpoints
 
 La colección incluye:

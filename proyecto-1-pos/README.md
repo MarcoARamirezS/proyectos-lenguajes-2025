@@ -279,18 +279,6 @@ Cada equipo deberá entregar **todos** los siguientes elementos para completar c
 ### 🗄️ Base de Datos
 - Archivo exportado **`.sql`** con todas las tablas y datos mínimos de prueba
 
-### 📘 Manual de Usuario
-- Explicación clara de cómo usar el sistema  
-- Capturas de pantalla de cada módulo  
-- Flujo de ventas e inventario
-
-### 🛠 Manual Técnico
-- Instalación del backend  
-- Instalación del frontend  
-- Variables `.env`  
-- Endpoints documentados  
-- Arquitectura y estructura de carpetas  
-
 ### 🎬 Video Demostrativo (3–5 min)
 Debe incluir:
 - Login  

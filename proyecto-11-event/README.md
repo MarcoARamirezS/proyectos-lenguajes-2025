@@ -242,28 +242,6 @@ El proyecto debe entregar los siguientes diagramas:
 
 ---
 
-### ✔ Manual técnico
-Debe contener:
-- Pasos de instalación del **backend** y **frontend**
-- Variables de entorno necesarias
-- Configuración de servidor/hosting (opcional)
-- Endpoints de la API con descripción
-- Estructura de carpetas
-- Librerías principales usadas (backend y frontend)
-
----
-
-### ✔ Manual de usuario
-Debe incluir:
-- Cómo iniciar sesión
-- Cómo crear un evento
-- Cómo registrar boletos
-- Cómo validar asistentes en el acceso
-- Capturas de pantalla del sistema
-- Explicación del dashboard
-
----
-
 ### ✔ Video demostrativo
 Duración sugerida: **3–6 minutos**
 
