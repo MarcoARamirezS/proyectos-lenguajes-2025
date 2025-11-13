@@ -243,8 +243,6 @@ erDiagram
 - **Diagramas**
   - Modelo **ER**
   - Diagrama de **Arquitectura**
-- **Manual de usuario** (cómo usar el sistema)
-- **Manual técnico** (instalación, estructura, API, despliegue)
 - **Video demostrativo** del sistema funcionando
 
 ---

@@ -283,29 +283,6 @@ Incluye:
 
 ---
 
-### ✔ Manual Técnico
-Debe documentar:
-- Instalación del backend y frontend
-- Dependencias
-- Variables de entorno
-- Estructura de carpetas
-- Endpoints de la API
-- Módulos de frontend
-- Conexión a la base de datos
-
----
-
-### ✔ Manual de Usuario
-Incluye:
-- Cómo iniciar sesión
-- Cómo crear tableros
-- Cómo agregar columnas
-- Cómo crear tarjetas
-- Cómo usar el drag & drop
-- Explicación del dashboard
-
----
-
 ### ✔ Video Demo
 Duración sugerida: **3 a 6 minutos**
 

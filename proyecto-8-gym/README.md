@@ -358,31 +358,6 @@ Debe mostrar:
 
 ---
 
-### ✔ Manual técnico
-Debe documentar:
-- Requerimientos del sistema  
-- Instalación del backend  
-- Instalación del frontend  
-- Variables de entorno  
-- Estructura del proyecto  
-- Endpoints de la API  
-- Arquitectura interna  
-- Dependencias principales  
-
----
-
-### ✔ Manual de usuario
-Debe explicar:
-- Ingreso al sistema  
-- Registro de socios  
-- Marcar asistencias  
-- Consultar membresías  
-- Registrar pagos  
-- Ver rutinas  
-- Navegación del dashboard  
-
----
-
 ### ✔ Diagramas ER + Arquitectura
 Debe incluir:
 - Diagrama Entidad–Relación (ER)  

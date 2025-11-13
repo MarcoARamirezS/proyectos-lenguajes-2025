@@ -291,14 +291,6 @@ Incluye:
 - Arquitectura del frontend  
 - Flujo de autenticación con JWT  
 
-### ✔ Manual técnico y de usuario
-Debe contener:
-- Instalación del backend y frontend  
-- Configuración `.env`  
-- Uso del sistema por roles  
-- Explicación de módulos  
-- Casos de uso  
-
 ### ✔ Postman Collection
 Colección con endpoints:
 - Login / Registro  
