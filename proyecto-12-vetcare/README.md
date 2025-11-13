@@ -194,6 +194,7 @@ erDiagram
 # 📁 Estructura Sugerida del Proyecto
 
 ## 🐶 Backend
+```plaintext
 vetcare-backend/
 ├── src/
 │   ├── config/               # Configuraciones y variables de entorno
