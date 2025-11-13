@@ -212,7 +212,7 @@ school-frontend/
 
 ## 📘 Modelo ER — Mini-SICE (Sugerido)
 
-```plaintext
+```mermaid
 erDiagram
 
     STUDENT ||--|{ GRADE : "obtiene"

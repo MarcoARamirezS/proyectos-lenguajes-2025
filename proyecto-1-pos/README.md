@@ -216,7 +216,7 @@ pos-frontend/
 
 ## 📊 Diagrama ER (Modelo de Datos)
 
-```plaintext
+```mermaid
 erDiagram
     CATEGORY ||--|{ PRODUCT : contains
     PRODUCT ||--|{ SALE_DETAIL : sold_in
