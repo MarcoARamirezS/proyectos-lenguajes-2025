@@ -252,7 +252,7 @@ hotel-frontend/
 ```
 
 ## 📄 Modelo ER Sugerido
-```plaintext
+```mermaid
 erDiagram
 
     ROOM ||--|{ RESERVATION : "incluida_en"
