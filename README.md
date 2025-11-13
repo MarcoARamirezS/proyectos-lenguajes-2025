@@ -74,10 +74,10 @@ Cada equipo deberá:
 | 6 | 🍽 **Sistema de Gestión de Restaurante**                   | Fullstack               | → [Ir al Proyecto 6](./proyecto-6-restaurante/README.md) |
 | 7 | 📘 **Plataforma Mini-Udemy (Cursos Online)**               | Fullstack               | → [Ir al Proyecto 7](./proyecto-7-cursos/README.md)      |
 | 8 | 🏋️‍♂️ **Sistema de Gestión de Gimnasio (GymFit Manager)** | Fullstack               | → [Ir al Proyecto 8](./proyecto-8-gym/README.md)         |
-| 9 | 🏋️‍♂️ **Sistema de Gestión de Hotel (HotelMaster)** | Fullstack               | → [Ir al Proyecto 8](./proyecto-9-hotel/README.md)         |
-| 10 | 🏋️‍♂️ **Plataforma de Gestión de Taller Mecánico (AutoFix Manager)** | Fullstack               | → [Ir al Proyecto 8](./proyecto-10-auto/README.md)         |
-| 11 | 🏋️‍♂️ **Sistema de Gestión de Eventos (EventFlow)** | Fullstack               | → [Ir al Proyecto 8](./proyecto-11-event/README.md)         |
-| 12 | 🏋️‍♂️ **Sistema de Gestión de Clínicas Veterinarias (VetCare System)** | Fullstack               | → [Ir al Proyecto 8](./proyecto-12-vetcare/README.md)         |
+| 9 | 🏋️‍♂️ **Sistema de Gestión de Hotel (HotelMaster)** | Fullstack               | → [Ir al Proyecto 9](./proyecto-9-hotel/README.md)         |
+| 10 | 🏋️‍♂️ **Plataforma de Gestión de Taller Mecánico (AutoFix Manager)** | Fullstack               | → [Ir al Proyecto 10](./proyecto-10-auto/README.md)         |
+| 11 | 🏋️‍♂️ **Sistema de Gestión de Eventos (EventFlow)** | Fullstack               | → [Ir al Proyecto 11](./proyecto-11-event/README.md)         |
+| 12 | 🏋️‍♂️ **Sistema de Gestión de Clínicas Veterinarias (VetCare System)** | Fullstack               | → [Ir al Proyecto 12](./proyecto-12-vetcare/README.md)         |
 
 # 🧪 Tecnologías Permitidas
 
