@@ -37,22 +37,6 @@ Cada proyecto cuenta con su propio **README** detallado, que incluye:
 | 🚀 **Instrucciones de instalación** | Explica cómo ejecutar el proyecto localmente o en servidor.              |
 | 📦 **Entregables finales**       | Resume los componentes que deben entregarse (código, video, docs, etc.).   |
 
----
-
-## 🗃️ Índice de Proyectos
-
-| Nº | Proyecto                | Descripción breve |
-| -- | ----------------------- | ----------------- |
-| 1️⃣ | **Biblioteca Digital** | Sistema para gestionar préstamos y control de libros. |
-| 2️⃣ | **E-Commerce PHP**     | Tienda en línea con carrito, checkout y panel admin. |
-| 3️⃣ | **Control Escolar**    | Gestión de alumnos, materias, calificaciones y asistencias. |
-| 4️⃣ | **Inventario**         | Control de productos, movimientos y proveedores. |
-| 5️⃣ | **Restaurante**              | Reservas, habitaciones, pagos y gestión de usuarios. |
-| 6️⃣ | **Gestor de Tareas**   | Administración de proyectos, tareas y usuarios (tipo Trello). |
-| 7️⃣ | **Citas Médicas**      | Agenda de médicos, pacientes y gestión de citas. |
-| 8️⃣ | **e-Learning**         | Plataforma de cursos, evaluaciones y resultados académicos. |
-
----
 
 ## 🧠 Objetivo Académico
 
@@ -90,6 +74,10 @@ Cada equipo deberá:
 | 6 | 🍽 **Sistema de Gestión de Restaurante**                   | Fullstack               | → [Ir al Proyecto 6](./proyecto-6-restaurante/README.md) |
 | 7 | 📘 **Plataforma Mini-Udemy (Cursos Online)**               | Fullstack               | → [Ir al Proyecto 7](./proyecto-7-cursos/README.md)      |
 | 8 | 🏋️‍♂️ **Sistema de Gestión de Gimnasio (GymFit Manager)** | Fullstack               | → [Ir al Proyecto 8](./proyecto-8-gym/README.md)         |
+| 9 | 🏋️‍♂️ **Sistema de Gestión de Hotel (HotelMaster)** | Fullstack               | → [Ir al Proyecto 8](./proyecto-9-hotel/README.md)         |
+| 10 | 🏋️‍♂️ **Plataforma de Gestión de Taller Mecánico (AutoFix Manager)** | Fullstack               | → [Ir al Proyecto 8](./proyecto-10-auto/README.md)         |
+| 11 | 🏋️‍♂️ **Sistema de Gestión de Eventos (EventFlow)** | Fullstack               | → [Ir al Proyecto 8](./proyecto-11-event/README.md)         |
+| 12 | 🏋️‍♂️ **Sistema de Gestión de Clínicas Veterinarias (VetCare System)** | Fullstack               | → [Ir al Proyecto 8](./proyecto-12-vetcare/README.md)         |
 
 # 🧪 Tecnologías Permitidas
 
